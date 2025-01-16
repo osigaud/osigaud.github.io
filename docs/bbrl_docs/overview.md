@@ -71,9 +71,7 @@ A key feature of BBRL is that it provides a generic `ParallelGymAgent` class tha
 
 In addition to facilitating interactions between an RL agent and a single environment, as the name implies, the ParallelGymAgent makes it possible to represent several instances of the same gymnasium environment in parallel, making it possible to train an agent into several identical environments at the same time.
 
-This feature is important for RL, as most deep RL algorithms are more stable when the learning agent is trained from multiple environments.
-
-But is raises some issues.
+This feature is important for RL, as most deep RL algorithms are more stable when the learning agent is trained from multiple environments. But this raises some issues.
 
 In particular, if an agent is running episodes over several environments and an episode in an environment stops before the others, what should the algorithm do:
 
