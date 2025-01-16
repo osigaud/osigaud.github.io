@@ -37,7 +37,7 @@ Each agent must contain a forward() function that is called at each time step. T
 
 Calling the temporal agent with a workspace in parameter will call all its inner agents sequentially so that the read and write inside the workspace at each time step for a number of steps or until a termination condition is met.
 
-To get a more practical understanding of the above concepts and the way they are implemented, you should open (using jupyter notebook or a Google colaboratory) [this notebook](notebooks/01-basic_concepts.student.ipynb) which contains examples and exercises.
+To get a more practical understanding of the above concepts and the way they are implemented, you should open (using jupyter notebook or a Google colaboratory) [this notebook](./notebooks/01-basic_concepts.student.ipynb) which contains examples and exercises.
 
 ## Key BBRL features
 
