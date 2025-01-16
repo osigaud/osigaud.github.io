@@ -1,7 +1,11 @@
+---
+layout: default
+title: "Welcome to my RL teaching site"
+permalink: /
+---
+
 theme: minima
 
-
-# Désactiver le menu de navigation (si tu n'en veux pas)
 minima:
   nav:
     enabled: false  # Cela désactive le menu de navigation qui affiche les liens vers toutes les pages.
