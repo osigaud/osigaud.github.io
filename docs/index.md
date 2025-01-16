@@ -1,6 +1,4 @@
-# Bienvenue sur mon site !
-
-Ceci est un site généré par GitHub Pages avec des fichiers Markdown.
+# Welcome on this site dedicated to reinforcement learning
 
 [Documentation BBRL](./bbrl_docs/overview.md)
 
