@@ -1,5 +1,11 @@
 theme: minima
 
+
+# Désactiver le menu de navigation (si tu n'en veux pas)
+minima:
+  nav:
+    enabled: false  # Cela désactive le menu de navigation qui affiche les liens vers toutes les pages.
+
 head:
   - "<!-- Google tag (gtag.js) -->"
   - "<script async src='https://www.googletagmanager.com/gtag/js?id=G-ZPLLS1XZC8'></script>"
