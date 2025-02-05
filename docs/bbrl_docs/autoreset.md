@@ -53,7 +53,7 @@ When moving from a data collection epoch to the next, the transition from the la
 
 The right way to fix this issue is to copy the last time step frame of the previous epoch into the first time step frame of the next epoch. That way, the potentially missing transition will be present in the first two frames of the second epoch. This is illustrated below.
 
-<img src="./images/transition_shifted_OK.png" alt="[copyright Sorbonne Universite]" >
+<img src="/docs/bbrl_docs/images/transition_shifted_OK.png" alt="[copyright Sorbonne Universite]" >
 
 This mechanism is implemented using `train_workspace.copy_n_last_steps(1)` as shown at the bottom of [this notebook](./notebooks/03-multi_env_autoreset.student.ipynb).
 
