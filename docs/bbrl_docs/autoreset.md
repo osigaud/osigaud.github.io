@@ -83,5 +83,6 @@ Note that we also have to organize the variables from the list of environments. 
 
 <img src="/docs/bbrl_docs/images/transition_reorganization.png" alt="[copyright Sorbonne Universite]" >
 
+<img src="/docs/bbrl_docs/images/transition_reorganization.png" alt="[copyright Sorbonne Universite]" >
 
 To practice about all these aspects of using a ParallelGymAgent with `autoreset=True`, you should play with [this notebook](./notebooks/03-multi_env_autoreset.student.ipynb).
