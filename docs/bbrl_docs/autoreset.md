@@ -71,7 +71,7 @@ Then all the transitions where the first step is done are removed. In the exampl
 
 Fortunately, because of the duplication, no step information is lost (in the final list you find from step 0 to step 4), thus we can find the end of episodes by looking at the value of done in the second part of the pairs.
 
-<img src="./docs/bbrl_docs/images/transition_remove.png" alt="[copyright Sorbonne Universite]" >
+<img src="/docs/bbrl_docs/images/transition_remove.png" alt="[copyright Sorbonne Universite]" >
 
 The function which performs this reorganization and filtering of transitions is the `get_transition()` function in the `Workspace` class.
 
@@ -79,10 +79,9 @@ Given the organization into pairs of step informations, the way to access data i
 
 By chance, given that the pairs have two elements, `reward[1` is equivalent to `reward[1:]` (all rewards but the first) and `critic[1]` is equivalent to `critic[1:]`, thus it happens that for temporal difference updates, the code in the `autoreset=True` case is equivalent to the code in the `autoreset=False` case.
 
-Note that we also have to organize the variables from the list of environments.
-The list is organized as visualized below.
+Note that we also have to organize the variables from the list of environments. The list is organized as visualized below.
 
-<img src="./docs/bbrl_docs/images/transition_reorganization.png" alt="[copyright Sorbonne Universite]" >
+<img src="/docs/bbrl_docs/images/transition_reorganization.png" alt="[copyright Sorbonne Universite]" >
 
 
 To practice about all these aspects of using a ParallelGymAgent with `autoreset=True`, you should play with [this notebook](./notebooks/03-multi_env_autoreset.student.ipynb).
