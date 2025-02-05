@@ -71,7 +71,7 @@ Then all the transitions where the first step is done are removed. In the exampl
 
 Fortunately, because of the duplication, no step information is lost (in the final list you find from step 0 to step 4), thus we can find the end of episodes by looking at the value of done in the second part of the pairs.
 
-<img src="./images/transition_remove.png" alt="[copyright Sorbonne Universite]" >
+<img src="./docs/bbrl_docs/images/transition_remove.png" alt="[copyright Sorbonne Universite]" >
 
 The function which performs this reorganization and filtering of transitions is the `get_transition()` function in the `Workspace` class.
 
