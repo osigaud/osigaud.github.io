@@ -24,12 +24,12 @@ So, instead of specifying a number of time steps, the `autoreset=False` case can
 
 A specificity of the `autoreset=False` case is that once an environment is done, if other environments are not done, the data from the last step of the environment is copied into the collected data for the next time steps until the end, as illustrated below.
 
-<img src="images/noautoreset.png" alt="[copyright Sorbonne Universite]" >
+<img src="./images/noautoreset.png" alt="[copyright Sorbonne Universite]" >
 
 
 As shown below, this facilitates checking if all environments are done and getting the cumulated reward for each just by looking into the last time step.
 
-<img src="images/noautoreset_nenvs.png" alt="[copyright Sorbonne Universite]" >
+<img src="./images/noautoreset_nenvs.png" alt="[copyright Sorbonne Universite]" >
 
 To practice about all these aspects of using a ParallelGymAgent with `autoreset=False`, you should play with [this notebook](./notebooks/02-multi_env_noautoreset.student.ipynb).
 
@@ -49,11 +49,11 @@ The collection model based on epochs faces the following list of issues:
 
 When moving from a data collection epoch to the next, the transition from the last state of the previous epoch to the first state of the next epoch should not be ignored when processing the data, which is what would happen if we do nothing. This is illustrated below.
 
-<img src="images/transition_shifted_missing.png" alt=" [copyright Sorbonne Universite]" >
+<img src="./images/transition_shifted_missing.png" alt=" [copyright Sorbonne Universite]" >
 
 The right way to fix this issue is to copy the last time step frame of the previous epoch into the first time step frame of the next epoch. That way, the potentially missing transition will be present in the first two frames of the second epoch. This is illustrated below.
 
-<img src="images/transition_shifted_OK.png" alt="[copyright Sorbonne Universite]" >
+<img src="./images/transition_shifted_OK.png" alt="[copyright Sorbonne Universite]" >
 
 This mechanism is implemented using `train_workspace.copy_n_last_steps(1)` as shown at the bottom of [this notebook](./notebooks/03-multi_env_autoreset.student.ipynb).
 
@@ -71,7 +71,7 @@ Then all the transitions where the first step is done are removed. In the exampl
 
 Fortunately, because of the duplication, no step information is lost (in the final list you find from step 0 to step 4), thus we can find the end of episodes by looking at the value of done in the second part of the pairs.
 
-<img src="images/transition_remove.png" alt="[copyright Sorbonne Universite]" >
+<img src="./images/transition_remove.png" alt="[copyright Sorbonne Universite]" >
 
 The function which performs this reorganization and filtering of transitions is the `get_transition()` function in the `Workspace` class.
 
@@ -82,7 +82,7 @@ By chance, given that the pairs have two elements, `reward[1` is equivalent to `
 Note that we also have to organize the variables from the list of environments.
 The list is organized as visualized below.
 
-<img src="images/transition_reorganization.png" alt="[copyright Sorbonne Universite]" >
+<img src="./images/transition_reorganization.png" alt="[copyright Sorbonne Universite]" >
 
 
 To practice about all these aspects of using a ParallelGymAgent with `autoreset=True`, you should play with [this notebook](./notebooks/03-multi_env_autoreset.student.ipynb).
