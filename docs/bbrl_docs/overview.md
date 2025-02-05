@@ -52,13 +52,13 @@ When applied to RL, additional features of BBRL are revealed.
 
 The standard figure below from the Sutton and Barto's book (ref) presents the interaction between an agent and its environment in RL.
 
-<img src="images/rl_agent.png" alt="[copyright Sorbonne Universite]" >
+<img src="/docs/bbrl_docs/images/rl_agent.png" alt="[copyright Sorbonne Universite]" >
 
 In most RL libraries such as Stable Baseline 3 (ref notebook), this interaction is represented in a central piece of code which is equipped with hooks to be able to apply callbacks and where you can put wrappers around the environment.
 
 In BBRL, this core loop is represented by applying a temporal agent to a workspace, as depicted below, and data from the interaction is simply retrieved as a dictionary of tensors.
 
-<img src="images/bbrl_workspace.png" alt="[copyright Sorbonne Universite]" >
+<img src="/docs/bbrl_docs/images/bbrl_workspace.png" alt="[copyright Sorbonne Universite]" >
 
 Note that everything interacting in a workspace is an agent, so in BBRL the RL environment is an agent too.
 

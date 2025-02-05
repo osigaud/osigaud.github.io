@@ -24,12 +24,12 @@ So, instead of specifying a number of time steps, the `autoreset=False` case can
 
 A specificity of the `autoreset=False` case is that once an environment is done, if other environments are not done, the data from the last step of the environment is copied into the collected data for the next time steps until the end, as illustrated below.
 
-<img src="./images/noautoreset.png" alt="[copyright Sorbonne Universite]" >
+<img src="/docs/bbrl_docs/images/noautoreset.png" alt="[copyright Sorbonne Universite]" >
 
 
 As shown below, this facilitates checking if all environments are done and getting the cumulated reward for each just by looking into the last time step.
 
-<img src="./images/noautoreset_nenvs.png" alt="[copyright Sorbonne Universite]" >
+<img src="/docs/bbrl_docs/images/noautoreset_nenvs.png" alt="[copyright Sorbonne Universite]" >
 
 To practice about all these aspects of using a ParallelGymAgent with `autoreset=False`, you should play with [this notebook](./notebooks/02-multi_env_noautoreset.student.ipynb).
 
@@ -49,7 +49,7 @@ The collection model based on epochs faces the following list of issues:
 
 When moving from a data collection epoch to the next, the transition from the last state of the previous epoch to the first state of the next epoch should not be ignored when processing the data, which is what would happen if we do nothing. This is illustrated below.
 
-<img src="./images/transition_shifted_missing.png" alt=" [copyright Sorbonne Universite]" >
+<img src="/docs/bbrl_docs/images/transition_shifted_missing.png" alt=" [copyright Sorbonne Universite]" >
 
 The right way to fix this issue is to copy the last time step frame of the previous epoch into the first time step frame of the next epoch. That way, the potentially missing transition will be present in the first two frames of the second epoch. This is illustrated below.
 
@@ -80,8 +80,6 @@ Given the organization into pairs of step informations, the way to access data i
 By chance, given that the pairs have two elements, `reward[1` is equivalent to `reward[1:]` (all rewards but the first) and `critic[1]` is equivalent to `critic[1:]`, thus it happens that for temporal difference updates, the code in the `autoreset=True` case is equivalent to the code in the `autoreset=False` case.
 
 Note that we also have to organize the variables from the list of environments. The list is organized as visualized below.
-
-<img src="/docs/bbrl_docs/images/transition_reorganization.png" alt="[copyright Sorbonne Universite]" >
 
 <img src="/docs/bbrl_docs/images/transition_reorganization.png" alt="[copyright Sorbonne Universite]" >
 
