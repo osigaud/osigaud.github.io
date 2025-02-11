@@ -12,4 +12,4 @@ Note about the video:
 
 ### Labs
 
-http://master-dac.isir.upmc.fr/rld/rl/04-ddpg.student.ipynb
+http://master-dac.isir.upmc.fr/rld/rl/04-ddpg-td3.student.ipynb
