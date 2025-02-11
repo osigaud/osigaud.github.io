@@ -2,6 +2,7 @@
 title: "RL teaching site"
 layout: default
 permalink: /
+include: ['bbrl_docs', 'learning_RL', 'learning_RL/DeepMFRL','learning_RL/Tabular','learning_RL/GCRL','learning_RL/EvoRL']
 ---
 
 theme: minima
