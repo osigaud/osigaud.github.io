@@ -1,3 +1,7 @@
+layout: default
+title: Page de Sous-Dossier
+---
+
 # Advantage Actor-Critic
 
 ### Slides
