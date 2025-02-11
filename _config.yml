@@ -4,7 +4,7 @@ title: "RL teaching site"
 permalink: /
 ---
 
-theme: minima
+theme: jekyll-theme-cayman
 
 minima:
   nav:
