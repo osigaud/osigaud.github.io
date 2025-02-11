@@ -3,5 +3,5 @@
 
 [Online content for Learning RL](./docs/learning_RL/learning_RL.md)
 
-These pages are subject to perpetual improvement, if you have any question or any suggestion to improve the content, send a message to Olivier.Sigaud@sorbonne-universite.fr.
+These pages are subject to perpetual improvement, if you have any question or any suggestion to improve the content, send a message to [Olivier.Sigaud@sorbonne-universite.fr](Olivier.Sigaud@sorbonne-universite.fr).
 
