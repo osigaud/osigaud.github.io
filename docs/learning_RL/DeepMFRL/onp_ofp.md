@@ -6,6 +6,6 @@
 
 ### Video
 
-https://www.youtube.com/watch?v=IsFO9XWBIEM
+[https://www.youtube.com/watch?v=IsFO9XWBIEM](https://www.youtube.com/watch?v=IsFO9XWBIEM)
 
 Note about the video: it is somewhat outdated

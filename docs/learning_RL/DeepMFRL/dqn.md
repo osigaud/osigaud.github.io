@@ -8,16 +8,16 @@
 
 ### Video
 
-https://www.youtube.com/watch?v=CXwvOMJujZk
+[https://www.youtube.com/watch?v=CXwvOMJujZk](https://www.youtube.com/watch?v=CXwvOMJujZk)
 
 Note about the video: The video does not cover material beyond Rainbow
 
 ### Labs
 
-http://master-dac.isir.upmc.fr/rld/rl/03-1-dqn-introduction.student.ipynb
+[https://master-dac.isir.upmc.fr/rld/rl/03-1-dqn-introduction.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/03-1-dqn-introduction.student.ipynb)
 
-http://master-dac.isir.upmc.fr/rld/rl/03-2-dqn-full.student.ipynb
+[https://master-dac.isir.upmc.fr/rld/rl/03-2-dqn-full.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/03-2-dqn-full.student.ipynb)
 
 ### Additional material
 
-The Agent57 paper: http://proceedings.mlr.press/v119/badia20a/badia20a.pdf
+[The Agent57 paper](http://proceedings.mlr.press/v119/badia20a/badia20a.pdf)

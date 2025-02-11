@@ -6,7 +6,7 @@
 
 ### Video
 
-https://www.youtube.com/watch?v=Ux3k6aOmwPs
+[https://www.youtube.com/watch?v=Ux3k6aOmwPs](https://www.youtube.com/watch?v=Ux3k6aOmwPs)
 
 Note about the video:
 

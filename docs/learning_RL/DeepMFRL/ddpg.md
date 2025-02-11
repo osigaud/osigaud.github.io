@@ -6,8 +6,8 @@
 
 ### Video
 
-https://www.youtube.com/watch?v=0D6a0a1HTtc
+[https://www.youtube.com/watch?v=0D6a0a1HTtc](https://www.youtube.com/watch?v=0D6a0a1HTtc)
 
 ### Labs
 
-http://master-dac.isir.upmc.fr/rld/rl/04-ddpg-td3.student.ipynb
+[https://master-dac.isir.upmc.fr/rld/rl/04-ddpg-td3.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/04-ddpg-td3.student.ipynb)

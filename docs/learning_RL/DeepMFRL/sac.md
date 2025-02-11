@@ -6,10 +6,10 @@
 
 ### Video
 
-https://www.youtube.com/watch?v=U20F-MvThjM
+[https://www.youtube.com/watch?v=U20F-MvThjM](https://www.youtube.com/watch?v=U20F-MvThjM)
 
 ### Labs
 
-https://master-dac.isir.upmc.fr/rld/rl/08-sac.student.ipynb
+[https://master-dac.isir.upmc.fr/rld/rl/08-sac.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/08-sac.student.ipynb)
 
 ### Additional material

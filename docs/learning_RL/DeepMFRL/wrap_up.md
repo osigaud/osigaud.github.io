@@ -6,7 +6,6 @@
 
 ### Video
 
-https://www.youtube.com/watch?v=HCKnWIYYVAQ
-
+[https://www.youtube.com/watch?v=HCKnWIYYVAQ](https://www.youtube.com/watch?v=HCKnWIYYVAQ)
 
 ### Additional material

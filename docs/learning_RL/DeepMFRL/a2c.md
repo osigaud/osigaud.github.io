@@ -10,15 +10,14 @@ title: Page de Sous-Dossier
 
 ### Video
 
-https://www.youtube.com/watch?v=BUmsTlIgrBI
+[https://www.youtube.com/watch?v=BUmsTlIgrBI](https://www.youtube.com/watch?v=BUmsTlIgrBI)
 
 ### Labs
 
-https://master-dac.isir.upmc.fr/rld/rl/06-1-a2c-basic.student.ipynb
+[https://master-dac.isir.upmc.fr/rld/rl/06-1-a2c-basic.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/06-1-a2c-basic.student.ipynb)
 
-https://master-dac.isir.upmc.fr/rld/rl/02-2-a2c-advanced.student.ipynb
+[https://master-dac.isir.upmc.fr/rld/rl/02-2-a2c-advanced.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/02-2-a2c-advanced.student.ipynb)
 
 ### Additional material
 
-A2C is a special case of PPO:
-https://arxiv.org/pdf/2205.09123.pdf
+[A2C is a special case of PPO](https://arxiv.org/pdf/2205.09123.pdf)
