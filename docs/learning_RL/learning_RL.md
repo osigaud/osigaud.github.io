@@ -12,13 +12,13 @@ These pages are subject to perpetual improvement, if you have any question or an
 
 ## Reinforcement Learning: Central flow of lessons
 
-[Overview: the 5 routes to Deep RL](https://osigaud.github.io/docs/learning_RL/overview.md)
+[Overview: the 5 routes to Deep RL](overview.md)
 
 ------------
 
 ### Tabular reinforcement learning
 
-[Tabular dynamic programming](https://osigaud.github.io/docs/learning_RL/Tabular/tabular_dp.md)
+[Tabular dynamic programming](./Tabular/tabular_dp.md)
 
 [Tabular model-free reinforcement learning](https://osigaud.github.io/docs/learning_RL/Tabular/tabular_mfrl.md)
 
