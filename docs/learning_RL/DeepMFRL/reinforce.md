@@ -26,6 +26,6 @@ Note about the videos: The videos are quite outdated, the slides have been a lot
 
 ### Labs
 
-[http://master-dac.isir.upmc.fr/rld/rl/05-reinforce.student.ipynb](http://master-dac.isir.upmc.fr/rld/rl/05-reinforce.student.ipynb)
+[https://master-dac.isir.upmc.fr/rld/rl/05-reinforce.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/05-reinforce.student.ipynb)
 
 ### Additional material
