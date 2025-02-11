@@ -20,10 +20,9 @@ Note about the videos: The slides are more recent. The videos note $r_t$ the rew
 
 ### Labs
 
-http://master-dac.isir.upmc.fr/rld/rl/01-dynamic_programming.student.ipynb
+[https://master-dac.isir.upmc.fr/rld/rl/01-dynamic_programming.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/01-dynamic_programming.student.ipynb)
 
 ### Additional material
 
-Convergence proofs for value iteration and policy iteration (borrowed from Sylvain Lamprier's class, in french)
+[Convergence proofs for value iteration and policy iteration (borrowed from Sylvain Lamprier's class, in french)](https://dac.lip6.fr/wp-content/uploads/2020/10/preuves.pdf)
 
-https://dac.lip6.fr/wp-content/uploads/2020/10/preuves.pdf

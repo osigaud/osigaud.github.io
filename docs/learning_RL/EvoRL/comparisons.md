@@ -8,7 +8,6 @@
 
 [Better space](https://master-dac.isir.upmc.fr/rl/better_space.pdf)
 
-
 ### Videos
 
 [Better steps (12')](https://www.youtube.com/watch?v=9uvb4xKwLsk)

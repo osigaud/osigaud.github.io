@@ -6,7 +6,7 @@
 
 ### Labs
 
-http://master-dac.isir.upmc.fr/arob/03-dyna_Q.student.ipynb
+[https://master-dac.isir.upmc.fr/arob/03-dyna_Q.student.ipynb](https://master-dac.isir.upmc.fr/arob/03-dyna_Q.student.ipynb)
 
 ### Additional material
 
