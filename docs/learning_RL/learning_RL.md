@@ -29,27 +29,27 @@ These pages are subject to perpetual improvement, if you have any question or an
 ### Deep (model-free) reinforcement learning
 
 
-[Deep Q-Network (DQN) and its successors](https://osigaud.github.io/docs/learning_RL/dqn.md)
+[Deep Q-Network (DQN) and its successors](https://osigaud.github.io/docs/learning_RL/DeepMFRL/dqn.md)
 
-[Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://osigaud.github.io/docs/learning_RL/ddpg.md)
+[Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/ddpg.md)
 
-[On-policy vs Off-policy](https://osigaud.github.io/docs/learning_RL/onp_ofp.md)
+[On-policy vs Off-policy](https://osigaud.github.io/docs/learning_RL/DeepMFRL/onp_ofp.md)
 
-[Policy Gradient approaches](https://osigaud.github.io/docs/learning_RL/reinforce.md)
+[Policy Gradient approaches](https://osigaud.github.io/docs/learning_RL/DeepMFRL/reinforce.md)
 
-[Bias vs Variance](https://osigaud.github.io/docs/learning_RL/bias_variance.md)
+[Bias vs Variance](https://osigaud.github.io/docs/learning_RL/DeepMFRL/bias_variance.md)
 
-[Advantage Actor-Critic (A2C)](https://osigaud.github.io/docs/learning_RL/a2c.md)
+[Advantage Actor-Critic (A2C)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/a2c.md)
 
-[Trust Region Policy Optimization (TRPO) and ACKTR](https://osigaud.github.io/docs/learning_RL/trpo.md)
+[Trust Region Policy Optimization (TRPO) and ACKTR](https://osigaud.github.io/docs/learning_RL/DeepMFRL/trpo.md)
 
-[Proximal Policy Optimization (PPO)](https://osigaud.github.io/docs/learning_RL/ppo.md)
+[Proximal Policy Optimization (PPO)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/ppo.md)
 
-[Soft Actor-Critic (SAC)](https://osigaud.github.io/docs/learning_RL/sac.md)
+[Soft Actor-Critic (SAC)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/sac.md)
 
-[High UTD ratio algorithms (TQC, DroQ)](https://osigaud.github.io/docs/learning_RL/high_UTD.md)
+[High UTD ratio algorithms (TQC, DroQ)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/high_UTD.md)
 
-[Deel Model-free RL Wrap-Up](https://osigaud.github.io/docs/learning_RL/wrap_up.md)
+[Deel Model-free RL Wrap-Up](https://osigaud.github.io/docs/learning_RL/DeepMFRL/wrap_up.md)
 
 The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), before studying DQN you should have a look at [the bbrl documentation](https://osigaud.github.io/docs/overview.md) and [the bbrl introductory notebooks](https://osigaud.github.io/docs/notebooks).
 
