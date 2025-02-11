@@ -18,11 +18,11 @@ These pages are subject to perpetual improvement, if you have any question or an
 
 ### Tabular reinforcement learning
 
-[Tabular dynamic programming](https://osigaud.github.io/docs/learning_RL/tabular_dp.md)
+[Tabular dynamic programming](https://osigaud.github.io/docs/learning_RL/Tabular/tabular_dp.md)
 
-[Tabular model-free reinforcement learning](https://osigaud.github.io/docs/learning_RL/tabular_mfrl.md)
+[Tabular model-free reinforcement learning](https://osigaud.github.io/docs/learning_RL/Tabular/tabular_mfrl.md)
 
-[Tabular model-based reinforcement learning](https://osigaud.github.io/docs/learning_RL/tabular_mbrl.md)
+[Tabular model-based reinforcement learning](https://osigaud.github.io/docs/learning_RL/Tabular/tabular_mbrl.md)
 
 ------------
 
