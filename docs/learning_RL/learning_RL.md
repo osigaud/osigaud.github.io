@@ -20,36 +20,36 @@ These pages are subject to perpetual improvement, if you have any question or an
 
 [Tabular dynamic programming](./Tabular/tabular_dp.md)
 
-[Tabular model-free reinforcement learning](https://osigaud.github.io/docs/learning_RL/Tabular/tabular_mfrl.md)
+[Tabular model-free reinforcement learning](./Tabular/tabular_mfrl.md)
 
-[Tabular model-based reinforcement learning](https://osigaud.github.io/docs/learning_RL/Tabular/tabular_mbrl.md)
+[Tabular model-based reinforcement learning](./Tabular/tabular_mbrl.md)
 
 ------------
 
 ### Deep (model-free) reinforcement learning
 
 
-[Deep Q-Network (DQN) and its successors](https://osigaud.github.io/docs/learning_RL/DeepMFRL/dqn.md)
+[Deep Q-Network (DQN) and its successors](./DeepMFRL/dqn.md)
 
-[Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/ddpg.md)
+[Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)](./DeepMFRL/ddpg.md)
 
-[On-policy vs Off-policy](https://osigaud.github.io/docs/learning_RL/DeepMFRL/onp_ofp.md)
+[On-policy vs Off-policy](./DeepMFRL/onp_ofp.md)
 
-[Policy Gradient approaches](https://osigaud.github.io/docs/learning_RL/DeepMFRL/reinforce.md)
+[Policy Gradient approaches](./DeepMFRL/reinforce.md)
 
-[Bias vs Variance](https://osigaud.github.io/docs/learning_RL/DeepMFRL/bias_variance.md)
+[Bias vs Variance](./DeepMFRL/bias_variance.md)
 
-[Advantage Actor-Critic (A2C)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/a2c.md)
+[Advantage Actor-Critic (A2C)](./DeepMFRL/a2c.md)
 
-[Trust Region Policy Optimization (TRPO) and ACKTR](https://osigaud.github.io/docs/learning_RL/DeepMFRL/trpo.md)
+[Trust Region Policy Optimization (TRPO) and ACKTR](./DeepMFRL/trpo.md)
 
-[Proximal Policy Optimization (PPO)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/ppo.md)
+[Proximal Policy Optimization (PPO)](./DeepMFRL/ppo.md)
 
-[Soft Actor-Critic (SAC)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/sac.md)
+[Soft Actor-Critic (SAC)](./DeepMFRL/sac.md)
 
-[High UTD ratio algorithms (TQC, DroQ)](https://osigaud.github.io/docs/learning_RL/DeepMFRL/high_UTD.md)
+[High UTD ratio algorithms (TQC, DroQ)](./DeepMFRL/high_UTD.md)
 
-[Deel Model-free RL Wrap-Up](https://osigaud.github.io/docs/learning_RL/DeepMFRL/wrap_up.md)
+[Deel Model-free RL Wrap-Up](./DeepMFRL/wrap_up.md)
 
 The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), before studying DQN you should have a look at [the bbrl documentation](https://osigaud.github.io/docs/overview.md) and [the bbrl introductory notebooks](https://osigaud.github.io/docs/notebooks).
 
@@ -57,35 +57,35 @@ The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), befor
 
 ### Direct policy search and RL
 
-[Direct policy search and RL: introduction](https://osigaud.github.io/docs/learning_RL/EvoRL/intro.md)
+[Direct policy search and RL: introduction](./EvoRL/intro.md)
 
-[Direct policy search methods](https://osigaud.github.io/docs/learning_RL/EvoRL/dps_methods.md)
+[Direct policy search methods](./EvoRL/dps_methods.md)
 
-[Policy gradient details](https://osigaud.github.io/docs/learning_RL/EvoRL/pg_details.md)
+[Policy gradient details](./EvoRL/pg_details.md)
 
-[Direct policy search and RL: comparisons](https://osigaud.github.io/docs/learning_RL/EvoRL/comparisons.md)
+[Direct policy search and RL: comparisons](./EvoRL/comparisons.md)
 
-[Direct policy search and RL: combinations](https://osigaud.github.io/docs/learning_RL/EvoRL/combinations.md)
+[Direct policy search and RL: combinations](./EvoRL/combinations.md)
 
-[Population-based training](https://osigaud.github.io/docs/learning_RL/EvoRL/pbt.md)
+[Population-based training](./EvoRL/pbt.md)
 
-[TD-MPC](https://osigaud.github.io/docs/learning_RL/EvoRL/td_mpc.md)
+[TD-MPC](./EvoRL/td_mpc.md)
 
 ------------
 
 ### Goal-conditioned reinforcement learning
 
-[GCRL: introduction](https://osigaud.github.io/docs/learning_RL/GCRL/intro.md)
+[GCRL: introduction](./GCRL/intro.md)
 
-[GCRL: core concepts](https://osigaud.github.io/docs/learning_RL/GCRL/core_concepts.md)
+[GCRL: core concepts](./GCRL/core_concepts.md)
 
-[GCRL: typology](https://osigaud.github.io/docs/learning_RL/GCRL/typology.md)
+[GCRL: typology](./GCRL/typology.md)
 
-[GCRL: skill learners](https://osigaud.github.io/docs/learning_RL/GCRL/skill_learners.md)
+[GCRL: skill learners](./GCRL/skill_learners.md)
 
-[GCRL: hindsight experience replay](https://osigaud.github.io/docs/learning_RL/her.md)
+[GCRL: hindsight experience replay](./her.md)
 
-[GCRL: goal reachers](https://osigaud.github.io/docs/learning_RL/GCRL/goal_reachers.md)
+[GCRL: goal reachers](./GCRL/goal_reachers.md)
 
 ------------
 
