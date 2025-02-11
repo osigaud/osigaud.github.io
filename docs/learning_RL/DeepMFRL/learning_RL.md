@@ -16,35 +16,35 @@ These pages are subject to perpetual improvement, if you have any question or an
 
 ------------
 
-[Tabular dynamic programming](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/tabular_dp.md)
+[Tabular dynamic programming](https://osigaud.github.io/docs/learning_RL/tabular_dp.md)
 
-[Tabular model-free reinforcement learning](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/tabular_mfrl.md)
+[Tabular model-free reinforcement learning](https://osigaud.github.io/docs/learning_RL/tabular_mfrl.md)
 
-[Tabular model-based reinforcement learning](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/tabular_mbrl.md)
+[Tabular model-based reinforcement learning](https://osigaud.github.io/docs/learning_RL/tabular_mbrl.md)
 
 ------------
 
-[Deep Q-Network (DQN) and its successors](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/dqn.md)
+[Deep Q-Network (DQN) and its successors](https://osigaud.github.io/docs/learning_RL/dqn.md)
 
-[Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/ddpg.md)
+[Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://osigaud.github.io/docs/learning_RL/ddpg.md)
 
-[On-policy vs Off-policy](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/onp_ofp.md)
+[On-policy vs Off-policy](https://osigaud.github.io/docs/learning_RL/onp_ofp.md)
 
-[Policy Gradient approaches](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/reinforce.md)
+[Policy Gradient approaches](https://osigaud.github.io/docs/learning_RL/reinforce.md)
 
-[Bias vs Variance](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/bias_variance.md)
+[Bias vs Variance](https://osigaud.github.io/docs/learning_RL/bias_variance.md)
 
-[Advantage Actor-Critic (A2C)](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/a2c.md)
+[Advantage Actor-Critic (A2C)](https://osigaud.github.io/docs/learning_RL/a2c.md)
 
-[Trust Region Policy Optimization (TRPO) and ACKTR](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/trpo.md)
+[Trust Region Policy Optimization (TRPO) and ACKTR](https://osigaud.github.io/docs/learning_RL/trpo.md)
 
-[Proximal Policy Optimization (PPO)](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/ppo.md)
+[Proximal Policy Optimization (PPO)](https://osigaud.github.io/docs/learning_RL/ppo.md)
 
-[Soft Actor-Critic (SAC)](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/sac.md)
+[Soft Actor-Critic (SAC)](https://osigaud.github.io/docs/learning_RL/sac.md)
 
-[High UTD ratio algorithms (TQC, DroQ)](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/high_UTD.md)
+[High UTD ratio algorithms (TQC, DroQ)](https://osigaud.github.io/docs/learning_RL/high_UTD.md)
 
-[Deel Model-free RL Wrap-Up](https://github.com/osigaud/bbrl/tree/master/docs/learning_RL/wrap_up.md)
+[Deel Model-free RL Wrap-Up](https://osigaud.github.io/docs/learning_RL/wrap_up.md)
 
 ------------
 
