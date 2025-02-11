@@ -53,9 +53,6 @@ These pages are subject to perpetual improvement, if you have any question or an
 
 The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), before studying DQN you should have a look at [the bbrl documentation](https://osigaud.github.io/docs/overview.md) and [the bbrl introductory notebooks](https://osigaud.github.io/docs/notebooks).
 
-These pages are subject to perpetual improvement, if you have any question or any suggestion to improve the content, send a message to Olivier.Sigaud@sorbonne-universite.fr.
-
-
 ------------
 
 ### Direct policy search and RL
