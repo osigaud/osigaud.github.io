@@ -14,7 +14,7 @@ Note about the video: The slides are more recent. The video notes $r_t$ the rewa
 
 ### Labs
 
-[https://master-dac.isir.upmc.fr/rld/rl/02-reinforcement_learning.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/02-reinforcement_learning.student.ipynb)
+[https://master-dac.isir.upmc.fr/rld/rl/02-tabular-rl.student.ipynb](https://master-dac.isir.upmc.fr/rld/rl/02-tabular-rl.student.ipynb)
 
 ### Additional material
 
