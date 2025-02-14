@@ -1,4 +1,4 @@
-# Notebook to learn using BBRL
+# Notebooks to learn how to use BBRL
 
 [Introduction: basic mechanism](./01-basic_concepts.student.ipynb)
 
