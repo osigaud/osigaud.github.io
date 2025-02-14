@@ -22,6 +22,8 @@ These pages are subject to perpetual improvement, if you have any question or an
 
 [Tabular model-free reinforcement learning](./Tabular/tabular_mfrl.md)
 
+[Reliable evaluation, stats and hyper-parameter tuning](./Tabular/tabular_actor_critic_stats_and_tuning.md)
+
 [Tabular model-based reinforcement learning](./Tabular/tabular_mbrl.md)
 
 ------------
