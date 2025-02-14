@@ -1,4 +1,4 @@
-# Tabular Reinforcement Learning
+# Tabular Actor-critic, reliable evaluation, stats and Hyper-param tuning
 
 ### Slides
 
