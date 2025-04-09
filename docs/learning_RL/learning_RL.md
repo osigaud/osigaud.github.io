@@ -91,11 +91,11 @@ The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), befor
 
 ------------
 
+## Advanced RL
+
+[RLPD](./ARL/rlpd.md)
+
 <!---
-## Beyond standard RL approaches
-
-Imitation learning
-
 Direct Policy Search (DPS) approaches
 
 Combining DPS and RL
