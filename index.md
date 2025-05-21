@@ -1,7 +1,7 @@
 
 Science is when it doesn't work but we know why ; Engineering is when it works but we don't know why ; Reinforcement learning combines Science and Engineering: it doesn't work and we don't know why.
 
-[Blog](./blog/overview.md)
+[Blog](./blog/index.md)
 
 [Documentation BBRL](./docs/bbrl_docs/overview.md)
 
