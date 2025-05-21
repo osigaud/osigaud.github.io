@@ -3,7 +3,7 @@ Science is when it doesn't work but we know why ; Engineering is when it works b
 
 [Blog](./blog/index.md)
 
-[Documentation BBRL](./docs/bbrl_docs/overview.md)
+[BBRL documentation](./docs/bbrl_docs/overview.md)
 
 [Online content for Learning RL](./docs/learning_RL/learning_RL.md)
 
