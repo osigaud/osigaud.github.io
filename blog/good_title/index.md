@@ -1,6 +1,5 @@
 
 ## A good title is all you need
-### (2025-05-20)
 
 In 2017, eight authors mostly from Google published "Attention Is All You Need", the celebrated paper that led to the Transformers revolution in IA (cited more than 177.000 times when I wrote this blog post). Then the number of papers using the title template "[something] Is All You Need" started to get more and more used, with an immediate "bump".
 The number of titles found with Google scholar that contain "is all you need" evolves as follows:
