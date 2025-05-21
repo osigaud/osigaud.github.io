@@ -1,7 +1,5 @@
----
-title: A good title is all you need
-date: 2025-05-20
----
+
+## title: A good title is all you need (2025-05-20)
 
 In 2017, eight authors mostly from Google published "Attention Is All You Need", the celebrated paper that led to the Transformers revolution in IA (cited more than 177.000 times when I wrote this blog post). Then the number of papers using the title template "[something] Is All You Need" started to get more and more used, with an immediate "bump".
 The number of titles found with Google scholar that contain "is all you need" evolves as follows:
@@ -24,4 +22,6 @@ Most probably, researchers use this title template because they believe it will 
 
 So why write a blog post about this? The point is that I believe many researchers share a common belief that the title of their papers has become an important factor of their visibility, which needs to be questioned. With the growth in the number of papers made available each year, it is getting harder and harder to keep track on all the papers whose content matter in one's domain. So people tend look preferentially at papers from some institutions and/or some authors and, when this filter is not strong enough to make the reading effort reasonable, they will even choose based on the title.
 
-I don't know whether researchers will agree on that, but I tend to believe that a poor paper from a strong institution, a celebrated author or with a good title will often get more reads and more citations than an excellent paper coming from a less visible institution or author or with a not so catchy title. Is this satisfactory? I do not believe this is the way science should work. Science should be about the content of papers, not about external indicators. Can we do something? I think this is the right question. Is there a satisfactory way to decrease the number of available papers each year, with fewer but better papers? Will better search engines help us find the papers with the best content rather than the best "external indicators", such as the author, the institution or the title?
+I don't know whether researchers will agree on that, but I tend to believe that a poor paper from a strong institution, a celebrated author or with a good title will often get more reads and more citations than an excellent paper coming from a less visible institution or author or with a not so catchy title. Is this satisfactory? I do not believe this is the way science should work. The evaluation of papers should be about their scientific content, not about external indicators. Can we do something? I think this is the right question. Is there a satisfactory way to decrease the number of available papers each year, with fewer but better papers? Will better search engines help us find the papers with the best content rather than the best "external indicators", such as the author, the institution or the title?
+
+Conference organizers are introducing new ideas. For instance, paper authors are more and more commonly asked to review papers at the same conference, with measures to ensure the work is done seriously. What if, for each paper you submit, you had to review 3 papers? Do you believe people would continue submitting 10 papers, and have to (seriously) review 30 papers? I think this would go into the right direction...
