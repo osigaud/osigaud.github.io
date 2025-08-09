@@ -1,5 +1,4 @@
-
-Science is when it doesn't work but we know why ; Engineering is when it works but we don't know why ; Reinforcement learning combines Science and Engineering: it doesn't work and we don't know why.
+### Science is when it doesn't work but we know why ; Engineering is when it works but we don't know why ; Reinforcement learning combines Science and Engineering: it doesn't work and we don't know why.
 
 [Blog](./blog/index.md)
 
