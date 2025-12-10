@@ -53,7 +53,7 @@ These pages are subject to perpetual improvement, if you have any question or an
 
 [Deel Model-free RL Wrap-Up](./DeepMFRL/wrap_up.md)
 
-The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), before studying DQN you should have a look at [the bbrl documentation](https://osigaud.github.io/docs/overview.md) and [the bbrl introductory notebooks](https://osigaud.github.io/docs/notebooks).
+The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), before studying DQN you should have a look at [the bbrl documentation](https://osigaud.github.io/docs/bbrl_docs/overview.md) and [the bbrl introductory notebooks](https://osigaud.github.io/docs/bbrl_docs/notebooks).
 
 ------------
 
