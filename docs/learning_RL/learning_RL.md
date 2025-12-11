@@ -6,7 +6,7 @@ The pages below contain teaching material from Olivier Sigaud's reinforcement le
 
 The order of the lessons below matters, if you want to understand a lot about RL and you don't have much prior knowledge, you are encouraged to work on these lessons sequentially. Getting a good grasp on RL from the "central flow of lessons" below may take something like 10 days of work to a motivated beginner.
 
-The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), before studying DQN you should have a look at [the bbrl documentation](https://osigaud.github.io/docs/bbrl_docs/overview.md) and [the bbrl introductory notebooks](../bbrl_docs/notebooks/index.md).
+The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), before studying DQN you should have a look at [the bbrl documentation](https://osigaud.github.io/docs/bbrl_docs/overview) and [the bbrl introductory notebooks](../bbrl_docs/notebooks/index).
 
 These pages are subject to perpetual improvement, if you have any question or any suggestion to improve the content, send a message to [Olivier.Sigaud@sorbonne-universite.fr](mailto:Olivier.Sigaud@sorbonne-universite.fr).
 
@@ -53,7 +53,7 @@ These pages are subject to perpetual improvement, if you have any question or an
 
 [Deel Model-free RL Wrap-Up](./DeepMFRL/wrap_up.md)
 
-The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), before studying DQN you should have a look at [the bbrl documentation](https://osigaud.github.io/docs/bbrl_docs/overview.md) and [the bbrl introductory notebooks](https://osigaud.github.io/docs/bbrl_docs/notebooks).
+The labs are based on [the bbrl library](https://github.com/osigaud/bbrl), before studying DQN you should have a look at [the bbrl documentation](https://osigaud.github.io/docs/bbrl_docs/overview) and [the bbrl introductory notebooks](https://osigaud.github.io/docs/bbrl_docs/notebooks).
 
 ------------
 
